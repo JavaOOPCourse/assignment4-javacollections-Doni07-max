@@ -1,5 +1,5 @@
 package model;
-
+klfjsldjfdlsjf
 public class Issue implements Comparable<Issue> {
 
     // TODO: declare fields
